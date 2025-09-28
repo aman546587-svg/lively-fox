@@ -38,3 +38,50 @@ image:
 
 projects: []
 slides: ""
+
+title: "Growth and characterization of sputter-deposited Ga2O3-based memristive devices"
+authors:
+- admin
+- Aman Baunthiyal
+- Jon-Olaf Krisponeit
+- Marco Schowalter
+- Thorsten Mehrtens
+- Alexander Karg
+- Andreas Rosenauer
+- Martin Eickhoff
+- Jens Falta
+author_notes: []
+date: "2023-11-20T00:00:00Z"
+
+publishDate: "2023-11-20T00:00:00Z"
+
+publication_types: ["article-journal"]
+
+publication: "*Applied Physics Letters, 123*(21), 213504"
+publication_short: "Appl. Phys. Lett."
+
+abstract: |
+  In this work, we demonstrate the growth and resistive switching behavior of β-Ga2O3 thin films on Ru/Al2O3 substrates using magnetron RF sputtering. The devices exhibit bipolar resistive switching with ON/OFF ratios up to 10^4, stable endurance, and long retention times. Structural, morphological, and chemical analyses confirm conductive filament formation governed by oxygen vacancies, making these devices promising prototypes for next-generation nonvolatile memory.
+
+summary: "Demonstration of Ga2O3-based memristive devices with stable resistive switching and promising memory performance."
+
+tags:
+- Gallium Oxide
+- Memristors
+- Resistive Switching
+- Non-Volatile Memory
+featured: true
+
+links:
+  - type: doi
+    url: https://doi.org/10.1063/5.0170354
+  - type: pdf
+    url: /uploads/papers/213504_1_5.0170354-3.pdf
+
+image:
+  caption: 'Image credit: Authors'
+  focal_point: ""
+  preview_only: false
+
+projects: []
+slides: ""
