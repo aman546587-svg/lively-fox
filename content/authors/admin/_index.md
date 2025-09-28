@@ -92,33 +92,33 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: UHV & PVD Systems (MBE, RF Sputtering)
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Microscopy & Spectroscopy (STM, XPS, AFM, SEM, AES, LEED)
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Programming & Tools (Python, C++, LabVIEW, OriginPro, LaTeX)
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: cpu-chip
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Communication & Teamwork
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: person-simple-walk
+      - name: Problem-Solving & Adaptability
         description: ''
-        percent: 70
+        percent: 85
+        icon: light-bulb
+      - name: Ethical Awareness & Creativity
+        description: ''
+        percent: 80
         icon: book-open
 
 languages:
