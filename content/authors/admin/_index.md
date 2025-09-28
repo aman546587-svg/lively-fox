@@ -133,7 +133,7 @@ awards:
   - title: IIT-JAM Qualified
     url: https://jam.iitg.ac.in/
     date: '2017-05-01'
-    awarder: Indian Institute of Technology
+    Awarder: Indian Institute of Technology
     icon: hero/trophy
     summary: |
       Secured All India Rank 426 out of ~12,000 candidates.
@@ -143,7 +143,7 @@ awards:
     awarder: MAPEX Center for Materials and Processes, University of Bremen
     icon: hero/currency-dollar
     summary: |
-      Funded research internship on thin-film growth and morphology at University of Bremen.
+      Funded research internship on thin-film growth and morphology at the University of Bremen.
   - title: Postgraduate International Program Travel Grant
     url: https://www.uni-bremen.de/mapex/forschung/funding-opportunities/
     date: '2022-06-01'
@@ -154,4 +154,4 @@ awards:
 
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Aman Baunthiyal is a physicist and surface scientist nearing PhD completion at the University of Bremen, Germany. His research focuses on resistive switching technology, oxide thin-film growth, and electrical characterization for next-generation non-volatile memory (NVM) devices. He has published in peer-reviewed journals and presented at international conferences, including IEEE NMDC, DPG, IUMRS, and ECOSS. With strong expertise in UHV systems, microscopy, and nanomaterials, Aman combines experimental rigor with interdisciplinary collaboration. Outside of research, he enjoys scientific outreach, exploring innovative device concepts, and mentoring students.
