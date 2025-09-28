@@ -37,46 +37,41 @@ profiles:
     url: 'mailto:baunthiyal01@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/aman-baunthiyal
+    url: https://www.linkedin.com/in/aman-baunthiyal-7aa921176/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-0312-5082
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gJUgQvUAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Semiconductor Devices
+  - Surface Physics
+  - Resistive Switching Technology
+  - Nanomaterials Growth & Characterization
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Physics
+    institution: University of Bremen, Germany
+    date_start: 2019-10-01
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      Thesis: _Growth and Electrical Characterization of RF Sputtered Ga2O3 on Ru(0001) for NVM Technology_  
+      Supervisor: Prof. Dr. Jens Falta  
+      Publications in APL Materials, Applied Physics Letters, and IEEE NMDC.
+  - area: MSc Physics
+    institution: Indian Institute of Technology Jodhpur, India
+    date_start: 2017-07-01
+    date_end: 2019-05-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      GPA: 8.89/10 (German grade: 1.55)  
+      Thesis: Organic memory devices – fabrication processes and oxide surface morphology.
+  - area: BSc Physics
+    institution: University of Delhi, India
+    date_start: 2014-07-01
+    date_end: 2017-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 8.89/10 (German grade: 1.50)  
+      Project: Polymer-based electrode for high-performance supercapacitors.
 
 work:
   - position: Senior AI Research Scientist
