@@ -1,4 +1,3 @@
----
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
@@ -17,7 +16,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/ab_resume.pdf
       headings:
         about: ''
         education: ''
@@ -34,11 +33,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a physicist and surface scientist, currently completing my PhD at the University of Bremen, Germany.  
+        My research focuses on next-generation non-volatile memory (NVM) devices, resistive switching, and thin-film growth.  
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I specialize in UHV systems, electron & X-ray microscopy, and growth of organic/inorganic materials using RF sputtering and MBE techniques.  
+        My work has been published in journals such as *APL Materials* and *Applied Physics Letters*, and presented at international conferences including IEEE NMDC and ECOSS.  
 
-        Please reach out to collaborate 😃
+        I am passionate about semiconductor devices, surface science, and collaborative research.  
+        Please feel free to connect for discussions and collaborations 😃
     design:
       columns: '1'
   - block: collection
@@ -120,4 +122,3 @@ sections:
         # Card background color (CSS class)
         css_class: 'bg-primary-300'
         css_style: ''
----
