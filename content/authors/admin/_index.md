@@ -74,22 +74,18 @@ education:
       Project: Polymer-based electrode for high-performance supercapacitors.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Associate (PhD Researcher)
+    company_name: University of Bremen
+    company_url: 'https://www.uni-bremen.de/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2019-10-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducting research on oxide-based non-volatile memory (NVM).  
+      Led thin-film growth & electrical characterization projects.  
+      Operated multi-chamber UHV systems (MBE, RF sputtering).  
+      Supervised Bachelor’s & Master’s theses.  
+      Collaborated with national & international groups.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
